@@ -42,7 +42,7 @@
     "@storybook/builder-webpack5": "^6.5.16",
     "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/react": "^8.6.18",
-    "@faker-js/faker": "^6.3.1",
+    "@faker-js/faker": "^10.5.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.5",
     "@types/react-select": "^4.0.18",
