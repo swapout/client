@@ -63,7 +63,7 @@
     "lint-staged": "^11.2.6",
     "postcss": "^8.5.28",
     "prettier": "^2.8.8",
-    "tailwindcss": "^2.2.19",
+    "tailwindcss": "^4.3.3",
     "tsconfig-paths-webpack-plugin": "^3.5.2",
     "webpack": "^5.111.0"
   }
